@@ -158,7 +158,7 @@ html , body {
 }
 
 #intro {
-    background: url('./images/bg3Home.jpg') no-repeat;
+    background: url('images/bg3Home.jpg') no-repeat;
     background-size: 100vw; 
     float: left;
     height: 60vw;
@@ -390,7 +390,7 @@ html , body {
 /* /// Contact /// */
 
 #contact {
-    background: url('./images/bg3End.jpg') no-repeat; 
+    background: url('images/bg3End.jpg') no-repeat; 
     background-size: 100vw; 
     float: left;
     height: 60vw;
@@ -423,17 +423,17 @@ html , body {
 }
 
 .fc .fch:nth-child(1) {
-    background-image: url('/images/cim1.jpg');
+    background-image: url('images/cim1.jpg');
     object-fit:contain;
 }
 
 .fc .fch:nth-child(2) {
-    background-image: url('/images/cim2.jpg');
+    background-image: url('images/cim2.jpg');
     object-fit: contain;
 }
 
 .fc .fch:nth-child(3) {
-    background-image: url('/images/cim3.jpeg');
+    background-image: url('images/cim3.jpeg');
     object-fit:contain;
 }
 
